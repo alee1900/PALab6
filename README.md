@@ -18,6 +18,8 @@ Create the following components:
 - A control panel for managing the image being created. This panel will contains the buttons: Load, Save, Reset, Exit and it will be placed at the bottom part of the frame.
 - Use a file chooser in order to specify the file where the image will be saved (or load).
 
+I have solved everything in compulsory.
+
 ## Optional
 
 - Implement a retained mode drawing and add support for deleting shapes.
