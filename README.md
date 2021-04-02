@@ -26,6 +26,8 @@ I have solved everything in compulsory.
 - Add support for drawing multiple types of components. Consider creating a new panel, containing a list of available shapes. The configuration panel must adapt according to the type of the selected shape. Implement at least two types of shapes.
 - Implement free drawing and a simple shape recognition algorithm, capable of recognizing at least lines and circles.
 
+I have solved the second bullet point in optional.
+
 ## Bonus
 
 - Create a simple grammar in order to specify commands for drawing geometric shapes, for example fill circle name,x,y,radius,color. The commands will be specified in a text area component. Important: parsing the strings using regular expressions or other "custom" methods is not accepted.
